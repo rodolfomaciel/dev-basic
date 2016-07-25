@@ -33,4 +33,5 @@
 * Tipografia
 * CSS customizada
 * Modelo proprio vs. modelos existentes
-* 
+
+##Projeto Final
