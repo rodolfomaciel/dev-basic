@@ -28,3 +28,9 @@
 ##Lição 3
 * Conhecendo modelos existentes
 * Como usar um framework
+* Compressão de arquivos
+* Páginas responsivas
+* Tipografia
+* CSS customizada
+* Modelo proprio vs. modelos existentes
+* 
