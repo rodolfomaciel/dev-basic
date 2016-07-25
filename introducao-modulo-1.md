@@ -1,4 +1,4 @@
-#Sumário do curso
+#Modulo 1 - Basico
 
 ##Lição 1
 * HTML - CSS - DOM
