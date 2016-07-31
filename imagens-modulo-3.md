@@ -1,8 +1,8 @@
 #Módulo 3 - Imagens
 
 ##Lição 1
-* REquisições e rendimento
-* Dimensionamenot relativo
+* Requisições e rendimento
+* Dimensionamento relativo
 * Retrato ou paisagem
 * Unidades CSS
 * Bitmap e Vetor
